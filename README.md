@@ -1,3 +1,6 @@
+
+<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/humble+bundle/cloud_infrastructure_and_devops_toolkit_packt_books_Social.png)](https://www.humblebundle.com/books/cloud-infrastructure-and-devops-toolkit-packt-books?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_1_c_cloudinfrastructureanddevopstoolkitpackt_bookbundle)</p></b> 
+
 #Building Resilient Architectures on AWS
 
 <a href="https://www.packtpub.com/en-us/product/building-resilient-architectures-on-aws-9781835887103?utm_source=github&utm_medium=repository&utm_campaign=9781801076012"><img src="https://content.packt.com/B22290/cover_image_small.jpg" alt="Building Resilient Architectures on AWS" height="256px" align="right"></a>
